@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
 ## Education 
 __Ph.D.__ in Statistics, [University of South Carolina](https://sc.edu/study/colleges_schools/artsandsciences/statistics/), South Carolina, 2019.08 - Present.
 - _Dissertation title: New Deep Learning Approaches to Classical Statistical Problems_
