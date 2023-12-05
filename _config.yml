@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shijie Wang"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Shijie Wang"
 description              : &description "personal description"
