@@ -1,15 +1,11 @@
----
-title: "Paper Title Number 3"
-collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
----
-This paper is about the number 3. The number 4 is left for future work.
+## Publications and Preprints
+- Shin, M., __Wang, S.__ and Liu, J. (2023). Generative Multi-purpose Sampler for Weighted M-estimation. [[Paper](https://arxiv.org/abs/2006.00767)][[R package](https://github.com/shijiew97/GMS)]
+  
+  _Journal of Computational and Graphical Statistics_, In press.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+- __Wang, S.__, Shin, M., and Bai, R. (2024+). Generative quantile regression with variability penalty. [[Preprint](https://arxiv.org/abs/2301.03661)][[Code](https://github.com/shijiew97/PGQR)]
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+  _Journal of Computational and Graphical Statistics_, Under revision.
+
+- __Wang, S.__, Chakraborty, S., Qin, Q., and Bai, R. (2024+). A comprehensive deep generative framework for mixing density estimation.
+- __Wang, S.__, Shin, M., and Bai, R. (2024+). Fast boostrapping nonparametric maximum likelihood for latent mixture models.
