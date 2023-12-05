@@ -1,3 +1,8 @@
+---
+title: "Publications"
+permalink: /publications/
+---
+
 ## Publications and Preprints
 - Shin, M., __Wang, S.__ and Liu, J. (2023). Generative Multi-purpose Sampler for Weighted M-estimation. [[Paper](https://arxiv.org/abs/2006.00767)][[R package](https://github.com/shijiew97/GMS)]
   
