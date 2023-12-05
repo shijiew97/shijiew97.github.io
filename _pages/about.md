@@ -32,3 +32,8 @@ __B.S.__ in Applied Statistics, [Shanghai University of International Business a
 - __Wang, S.__, Chakraborty, S., Qin, Q., and Bai, R. (2024+). A comprehensive deep generative framework for mixing density estimation.
 - __Wang, S.__, Shin, M., and Bai, R. (2024+). Fast boostrapping nonparametric maximum likelihood for latent mixture models.
 
+## Experience
+- _Machine Learning Data Scientist Intern_, Bayer AG, Saint Louis, MO, 2023.05 - 2023.08.
+- _Deep Learning Research Assistant_, University of South Carolina, Columbia, 2022.05 - 2023.05.
+- _Machine Learning Data Scientist Intern_, Movefin Tech, Shanghai, 2019.03 - 2019.06.
+
