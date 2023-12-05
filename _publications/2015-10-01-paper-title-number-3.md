@@ -1,6 +1,6 @@
 ---
 title: "Publication"
-permalink: /publication/2015-10-01-paper-title-number-1
+permalink: /publications/2015-10-01-paper-title-number-1
 ---
 
 ## Publications and Preprints
