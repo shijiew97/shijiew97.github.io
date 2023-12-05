@@ -27,7 +27,7 @@ __B.S.__ in Applied Statistics, [Shanghai University of International Business a
 
 - __Wang, S.__, Shin, M., and Bai, R. (2024+). Generative quantile regression with variability penalty. [[Preprint](https://arxiv.org/abs/2301.03661)][[Code](https://github.com/shijiew97/PGQR)]
 
-  _Journal of Computational and Graphical Statistics_, Under revision.
+  Under revision.
 
 - __Wang, S.__, Chakraborty, S., Qin, Q., and Bai, R. (2024+). A comprehensive deep generative framework for mixing density estimation.
 - __Wang, S.__, Shin, M., and Bai, R. (2024+). Fast boostrapping nonparametric maximum likelihood for latent mixture models.
