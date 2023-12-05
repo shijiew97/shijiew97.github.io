@@ -14,11 +14,11 @@ I am Shijie Wang, currenlty a fifth-year Ph.D. student in the Department of Stat
 - Emprical Bayes and nonparameteric maximum likelihood estimation
 
 ## Education 
-__Ph.D.__ in Statistics, [University of South Carolina](https://sc.edu/study/colleges_schools/artsandsciences/statistics/), South Carolina, 08.2019 - Present.
+__Ph.D.__ in Statistics, [University of South Carolina](https://sc.edu/study/colleges_schools/artsandsciences/statistics/), South Carolina, 2019.08 - Present.
 - _Dissertation title: New Deep Learning Approaches to Classical Statistical Problems_
 - _Winner of James D. Lynch Graduate Student Research Award_
 
-__B.S.__ in Applied Statistics, [Shanghai University of International Business and Economics](https://eng.suibe.edu.cn/), Shanghai, 09.2015 - 06.2019.
+__B.S.__ in Applied Statistics, [Shanghai University of International Business and Economics](https://eng.suibe.edu.cn/), Shanghai, 2015.09 - 2019.06.
 
 ## Publications and Preprints
 - Shin, M., __Wang, S.__ and Liu, J. (2023). Generative Multi-purpose Sampler for Weighted M-estimation. [[Paper](https://arxiv.org/abs/2006.00767)][[R package](https://github.com/shijiew97/GMS)]
