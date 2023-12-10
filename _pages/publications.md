@@ -3,6 +3,7 @@ title: "Publications"
 permalink: /publications/
 ---
 
+
 ## Publications and Preprints
 - Shin, M., __Wang, S.__ and Liu, J. (2023). Generative Multi-purpose Sampler for Weighted M-estimation. [[Paper](https://arxiv.org/abs/2006.00767)][[R package](https://github.com/shijiew97/GMS)]
   
@@ -12,5 +13,5 @@ permalink: /publications/
 
   Under revision.
 
-- __Wang, S.__, Chakraborty, S., Qin, Q., and Bai, R. (2024+). A comprehensive deep generative framework for mixing density estimation.
-- __Wang, S.__, Shin, M., and Bai, R. (2024+). Fast boostrapping nonparametric maximum likelihood for latent mixture models.
+- __Wang, S.__, Chakraborty, S., Qin, Q., and Bai, R. (2024+). A comprehensive deep generative framework for mixing density estimation. [[R package](https://github.com/shijiew97/NetNPMLE)]
+- __Wang, S.__, Shin, M., and Bai, R. (2024+). Fast boostrapping nonparametric maximum likelihood for latent mixture models. [[R package](https://github.com/shijiew97/GBnpmle)]
