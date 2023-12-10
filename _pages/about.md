@@ -20,6 +20,7 @@ __Ph.D.__ in Statistics, [University of South Carolina](https://sc.edu/study/col
 
 __B.S.__ in Applied Statistics, [Shanghai University of International Business and Economics](https://eng.suibe.edu.cn/), Shanghai, 2015.09 - 2019.06.
 
+
 ## Publications and Preprints
 - Shin, M., __Wang, S.__ and Liu, J. (2023). Generative Multi-purpose Sampler for Weighted M-estimation. [[Paper](https://arxiv.org/abs/2006.00767)][[R package](https://github.com/shijiew97/GMS)]
   
@@ -29,8 +30,9 @@ __B.S.__ in Applied Statistics, [Shanghai University of International Business a
 
   Under revision.
 
-- __Wang, S.__, Chakraborty, S., Qin, Q., and Bai, R. (2024+). A comprehensive deep generative framework for mixing density estimation.
-- __Wang, S.__, Shin, M., and Bai, R. (2024+). Fast boostrapping nonparametric maximum likelihood for latent mixture models.
+- __Wang, S.__, Chakraborty, S., Qin, Q., and Bai, R. (2024+). A comprehensive deep generative framework for mixing density estimation. [[R package](https://github.com/shijiew97/NetNPMLE)]
+- __Wang, S.__, Shin, M., and Bai, R. (2024+). Fast boostrapping nonparametric maximum likelihood for latent mixture models. [[R package](https://github.com/shijiew97/GBnpmle)]
+
 
 ## Experience
 - _Machine Learning Data Scientist Intern_, Bayer AG, Saint Louis, MO, 2023.05 - 2023.08.
