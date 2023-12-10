@@ -9,5 +9,5 @@
 
   Under revision.
 
-- __Wang, S.__, Chakraborty, S., Qin, Q., and Bai, R. (2024+). A comprehensive deep generative framework for mixing density estimation.
-- __Wang, S.__, Shin, M., and Bai, R. (2024+). Fast boostrapping nonparametric maximum likelihood for latent mixture models.
+- __Wang, S.__, Chakraborty, S., Qin, Q., and Bai, R. (2024+). A comprehensive deep generative framework for mixing density estimation. [[R package](https://github.com/shijiew97/NetNPMLE)]
+- __Wang, S.__, Shin, M., and Bai, R. (2024+). Fast boostrapping nonparametric maximum likelihood for latent mixture models. [[R package](https://github.com/shijiew97/GBnpmle)]
