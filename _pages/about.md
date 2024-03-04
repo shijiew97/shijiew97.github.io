@@ -36,8 +36,17 @@ __B.S.__ in Applied Statistics, [Shanghai University of International Business a
 
 - __Wang, S.__, Chakraborty, S., Qin, Q., and Bai, R. (2024+). A comprehensive deep generative framework for mixing density estimation. [[R package](https://github.com/shijiew97/NetNPMLE)]
 
-## Experience
-- _Machine Learning Data Scientist Intern_, Bayer AG, Saint Louis, MO, 2023.05 - 2023.08.
-- _Deep Learning Research Assistant_, University of South Carolina, Columbia, 2022.05 - 2023.05.
-- _Machine Learning Data Scientist Intern_, Movefin Tech, Shanghai, 2019.03 - 2019.06.
+## Professional Experience
+- __Bayer AG__
+  
+   _ML Data Scientist Intern_, Saint Louis, 2023.05 - 2023.08.
+
+- __University of South Carolina__
+
+  _Deep Learning Research Assistant_, Columbia, 2022.05 - now.
+
+- __Movefin Tech__
+
+  _Machine Learning Data Scientist Intern_, Shanghai, 2019.03 - 2019.06.
+  
 
