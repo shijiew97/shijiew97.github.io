@@ -23,7 +23,7 @@ __Ph.D.__ in Statistics, [University of South Carolina](https://sc.edu/study/col
 __B.S.__ in Applied Statistics, [Shanghai University of International Business and Economics](https://eng.suibe.edu.cn/), Shanghai, 2015.09 - 2019.06.
 
 
-## Publications and Preprints
+## Publications
 - __Wang, S.__, Shin, M., and Bai, R. (2024). Generative quantile regression with variability penalty. [[Paper](https://arxiv.org/abs/2301.03661)][[Code](https://github.com/shijiew97/PGQR)]
 
    _Journal of Computational and Graphical Statistics_. Accepted
@@ -35,6 +35,8 @@ __B.S.__ in Applied Statistics, [Shanghai University of International Business a
 - Shin, M., __Wang, S.__ and Liu, J. (2023). Generative Multi-purpose Sampler for Weighted M-estimation. [[Paper](https://www.tandfonline.com/doi/abs/10.1080/10618600.2023.2292668)][[R package](https://github.com/shijiew97/GMS)]
   
   _Journal of Computational and Graphical Statistics_, DOI: 10.1080/10618600.2023.2292668.
+
+## Preprints
 
 - __Wang, S.__, Chakraborty, S., Qin, Q., and Bai, R. (2024+). A comprehensive deep generative framework for mixing density estimation. [[R package](https://github.com/shijiew97/NetNPMLE)]
 
