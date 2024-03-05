@@ -12,6 +12,8 @@ I am Shijie Wang, currenlty a fifth-year Ph.D. student in the Department of Stat
 - Bootstrap uncertainty quantification
 - Nonparametric conditional density estimation and nonparametric multi-quantile estimation
 - Emprical Bayes and nonparameteric maximum likelihood estimation
+- Bootstrap spatial-temopral process and time-varying spatial-temopral regression
+- Skewed prediction for Electronic health records (EHR)
 
 ## Education 
 __Ph.D.__ in Statistics, [University of South Carolina](https://sc.edu/study/colleges_schools/artsandsciences/statistics/), South Carolina, 2019.08 - Present.
